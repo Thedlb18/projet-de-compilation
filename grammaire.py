@@ -1,5 +1,8 @@
 import os
 from collections import defaultdict
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
+
 
 
 
